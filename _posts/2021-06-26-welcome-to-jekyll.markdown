@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "React Native 강좌 01"
 date:   2021-06-26 11:27:01 +0900
 categories: jekyll update
 ---
