@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "React Native 강좌 01 - React Native란?"
+title:  "React Native 01 - React Native란?"
 date:   2021-06-27 15:30:00 +0900
 categories: jekyll update
 ---
-### 참조 : https://reactNative.dev
+##### 참조 : [https://reactNative.dev](https://reactNative.dev)
 
 # React를 사용하여 App을 만든다.
 - Javascript library인 React를 사용.
